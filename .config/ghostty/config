@@ -1,0 +1,6 @@
+font-family = "JetBrains Mono"
+macos-titlebar-style = tabs
+background-opacity = 0.85
+theme = Catppuccin Frappe
+term = xterm
+keybind = "global:option+a=toggle_visibility"
